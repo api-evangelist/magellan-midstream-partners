@@ -1,7 +1,12 @@
 aid: magellan-midstream-partners
-url: https://raw.githubusercontent.com/api-evangelist/magellan-midstream-partners/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/magellan-midstream-partners/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.magellan-midstream-partners.com
+description: >-
+  Magellan Midstream Partners is a master limited partnership that owns the longest
+  refined petroleum products pipeline system in the country, along with refined petroleum
+  products and crude oil storage facilities.
