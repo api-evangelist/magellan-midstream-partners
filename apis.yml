@@ -9,7 +9,7 @@ description: >-
   APIs, developer tools, and machine-readable API artifacts made publicly
   available related to the legacy Magellan operations or successor ONEOK
   resources.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
