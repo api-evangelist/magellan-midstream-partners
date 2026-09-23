@@ -1,7 +1,9 @@
 ---
 title: Bhupesh Arora, Vice President and CIO, Magellan ...
 url: https://hmgstrategy.com/resource-center/articles/bhupesh-arora-vice-president-and-cio-magellan-midstream-partners-l-p-driving-digital-transformation-from-the-ground-up/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Magellan Midstream Partners" press release artificial intelligence'
 position: 4
 source: serpapi-google

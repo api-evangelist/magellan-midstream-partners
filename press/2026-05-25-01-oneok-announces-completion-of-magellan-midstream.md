@@ -1,7 +1,9 @@
 ---
 title: ONEOK Announces Completion of Magellan Midstream ...
 url: https://www.prnewswire.com/news-releases/oneok-announces-completion-of-magellan-midstream-partners-acquisition-301937459.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Magellan Midstream Partners" press release artificial intelligence'
 position: 1
 source: serpapi-google

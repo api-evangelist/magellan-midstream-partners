@@ -1,7 +1,9 @@
 ---
 title: US midstream ONEOK to acquire Magellan ...
 url: https://www.spglobal.com/energy/en/news-research/latest-news/natural-gas/051523-us-midstream-oneok-to-acquire-magellan-midstream-partners-in-188-bil-deal
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Magellan Midstream Partners" press release artificial intelligence'
 position: 2
 source: serpapi-google
